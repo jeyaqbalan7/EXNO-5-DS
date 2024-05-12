@@ -1,4 +1,4 @@
-# EXP-05-DATASCIENCE
+# EXP-05-Data visualization using MatplotLIB
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
